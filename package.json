@@ -1,0 +1,63 @@
+{
+  "name": "master-project",
+  "version": "1.0.0",
+  "description": "It's a master degree project",
+  "main": "script.js",
+  "dependencies": {
+    "@google-cloud/vision": "^1.0.0",
+    "argparse": "^1.0.10",
+    "aws-sdk": "^2.462.0",
+    "chalk": "^2.4.2",
+    "cli-cursor": "^2.1.0",
+    "csv-stringify": "^5.3.0",
+    "csv-writer": "^1.4.0",
+    "exceljs": "^1.13.0",
+    "fast-csv": "^3.0.1",
+    "iconv-lite": "^0.4.24",
+    "klaw-sync": "^6.0.0",
+    "lodash": "^4.17.11",
+    "prelude-ls": "^1.1.2",
+    "punycode": "^2.1.1",
+    "readdirp": "^3.0.1",
+    "request": "^2.88.0",
+    "resolve-from": "^4.0.0",
+    "restore-cursor": "^2.0.0",
+    "run-async": "^2.3.0",
+    "safer-buffer": "^2.1.2",
+    "semver": "^5.7.0",
+    "shebang-command": "^1.2.0",
+    "shebang-regex": "^1.0.0",
+    "signal-exit": "^3.0.2",
+    "sprintf-js": "^1.0.3",
+    "string-width": "^2.1.1",
+    "strip-ansi": "^4.0.0",
+    "supports-color": "^5.5.0",
+    "uuid": "^3.3.2",
+    "xlsx": "^0.14.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "Ni dziala"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidpolednik/master-project.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "node",
+    "CognitiveServices",
+    "Vision",
+    "API",
+    "Rekognition"
+  ],
+  "author": "Dawid Polednik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawidpolednik/master-project/issues"
+  },
+  "homepage": "https://github.com/dawidpolednik/master-project#readme"
+}
