@@ -15,7 +15,7 @@
     "fast-csv": "^3.0.1",
     "iconv-lite": "^0.4.24",
     "klaw-sync": "^6.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "prelude-ls": "^1.1.2",
     "punycode": "^2.1.1",
     "readdirp": "^3.0.1",
