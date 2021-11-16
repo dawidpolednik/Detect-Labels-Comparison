@@ -6,7 +6,7 @@
   "dependencies": {
     "@google-cloud/vision": "^1.0.0",
     "argparse": "^1.0.10",
-    "aws-sdk": "^2.462.0",
+    "aws-sdk": "^2.814.0",
     "chalk": "^2.4.2",
     "cli-cursor": "^2.1.0",
     "csv-stringify": "^5.3.0",
